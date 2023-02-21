@@ -1,5 +1,5 @@
 # Hilal Koçak
-## Python Developer
+## Python/Django Developer
 
 - 🔭 I’m currently working on Python Software Development
 - 🌱 I’m currently learning Web Development with Django
